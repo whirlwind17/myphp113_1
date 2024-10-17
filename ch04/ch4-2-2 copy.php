@@ -5,3 +5,5 @@ $no = "1234567";
 $englishGrade = "65"; // 指定成字串
 
 echo "姓名: " . $std_name . "<br/>";
+
+## 考試範圍
