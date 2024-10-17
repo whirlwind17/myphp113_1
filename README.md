@@ -11,7 +11,7 @@ git push
 git pull
 
 ## advance
+git branch
 git stash
-gut branch
 git checkout
 git log
